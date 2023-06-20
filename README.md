@@ -30,6 +30,10 @@ Also, I find out that the solvation means having all cube in same rotation.
 
 
 
-https://github.com/MasoodTaheri/Rubik-s-Cube-game/assets/7465294/bdd22957-9de6-48f0-8900-bd4d6946545c
+![Screenshot_4](https://github.com/MasoodTaheri/Rubik-s-Cube-game/assets/7465294/981af229-5091-402b-ab52-922d8bff429e)
+![Screenshot_3](https://github.com/MasoodTaheri/Rubik-s-Cube-game/assets/7465294/ae71f248-6da5-448c-9a0e-bad7680bea76)
+![Screenshot_2](https://github.com/MasoodTaheri/Rubik-s-Cube-game/assets/7465294/af2a1adb-0af1-40ac-8f35-d7708182c505)
+![Screenshot_1](https://github.com/MasoodTaheri/Rubik-s-Cube-game/assets/7465294/b66d8749-2791-4ca0-a46a-888f1bab0fc4)
+
 
 
