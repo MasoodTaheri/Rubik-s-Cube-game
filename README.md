@@ -27,3 +27,9 @@ When player click on a cube:
 The easier way to find the cube around a pivot was using lots of raycast but I used the position and a LINQ to find all the cubes that have same pivot.
 Also, I find out that the solvation means having all cube in same rotation.
 
+
+
+
+https://github.com/MasoodTaheri/Rubik-s-Cube-game/assets/7465294/bdd22957-9de6-48f0-8900-bd4d6946545c
+
+
